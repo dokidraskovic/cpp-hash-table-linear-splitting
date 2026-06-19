@@ -1,0 +1,11 @@
+﻿  HashTable.cpp
+C:\Users\doki\Desktop\HashTable\HashTable\HashTable.h(152,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\doki\Desktop\HashTable\HashTable\HashTable.cpp(19,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\doki\Desktop\HashTable\HashTable\HashTable.cpp(52,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\doki\Desktop\HashTable\HashTable\HashTable.cpp(78,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\doki\Desktop\HashTable\HashTable\HashTable.cpp(104,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+C:\Users\doki\Desktop\HashTable\HashTable\HashTable.h(152,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\doki\Desktop\HashTable\HashTable\main.cpp(69,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  HashTable.vcxproj -> C:\Users\doki\Desktop\HashTable\x64\Debug\HashTable.exe
